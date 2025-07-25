@@ -39,7 +39,10 @@
 
 <br/><br/>
 
-[![binay's GitHub Stats][((https://github.com/Binay_panda19)
+[![binay's GitHub Stats](https://github.com/Binay_panda19/)
+<br>
+<br/>
+[![binay's personal portfolio]](https://binaya-portfolio-beige.vercel.app/)]
 
 
 <br/>
