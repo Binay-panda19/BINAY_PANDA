@@ -78,7 +78,7 @@ A modern portfolio built using React + TailwindCSS, with project showcases, dark
 
 ### 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prince_Panda-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/binaya-panda) <!-- Replace with your LinkedIn -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Binaya_Panda-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/binaya-panda) <!-- Replace with your LinkedIn -->
 [![GitHub](https://img.shields.io/badge/GitHub-Binay--panda19-black?style=for-the-badge&logo=github)](https://github.com/Binay-panda19)
 
 ---
